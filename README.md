@@ -21,11 +21,11 @@ Title for the new issue should have `[Sticker pack]` then a hyphen and the name 
 
 In the comment, place your app store link and a link to either your website or a public handle like Twitter.
 
-## Buy me a slice of :water:
+## Buy me a glass of :whale:
 
 If you found this Affinity Designer template helpful, would you buy me ~700 gallons of tap water (including sewage disposal fee)? I love being hydrated, and it helps me think clearer to make & share more things!
 
-<a href="paypal.me/wongjustin99/2.00">Buy Justin a lot of tap water :water:</a>
+<a href="paypal.me/wongjustin99/2.00">Buy Justin a lot of tap water :whale:</a>
 
 ## Credit
 
