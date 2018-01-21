@@ -30,3 +30,7 @@ If you found this Affinity Designer template helpful, would you buy me ~700 gall
 ## Credit
 
 Inspired by Michael Lee's [Sketch template](https://github.com/michaellee/iOS-iMessage-Stickers-Icon-Sketch-Template)
+
+## License
+License
+[MIT](https://github.com/wongjustin99/iOS10-iMessage-Stickers-Icon-Template-for-Affinity-Designer/blob/master/LICENSE.md) © [Justin Wong](https://twitter.com/fulltimeuser)
