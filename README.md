@@ -9,7 +9,7 @@ I've attempted to label all the artboards in an easy way, so that when importing
 
 ## Tell me if you used this template to make your iMessage Stickers
 
-Please let me know if you used the template in making the icons for your iMessage stickers by [tweeting me at @fulltimeuser](https://twitter.com/fulltimeuser) on Twitter or creating an [issue](https://github.com/wongjustin99/iOS10-iMessage-Stickers-Icon-Template-for-Affinity-Designer/issues/new). I'll add it to this README to share with others. 
+Please let me know if you used the template in making the icons for your iMessage stickers by creating an [issue](https://github.com/wongjustin99/iOS10-iMessage-Stickers-Icon-Template-for-Affinity-Designer/issues/new). I'll add it to this README to share with others. 
 
 ### Format when creating issue
 
